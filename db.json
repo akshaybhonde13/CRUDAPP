@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 101,
+      "employee_name": "Akshay Bhonde",
+      "employee_salary": "3,00,000",
+      "employee_location": "pune",
+      "employee_address": "Bhairavnath nagar "
+    },
+    {
+      "id": 103,
+      "employee_name": "Ajay Sharma",
+      "employee_salary": "100000",
+      "employee_location": "Khadki",
+      "employee_address": "abc road"
+    },
+    {
+      "id": 105,
+      "employee_name": "Bipin Kumar",
+      "employee_salary": "2,00,000",
+      "employee_location": "Akurdi",
+      "employee_address": "Vitthal Temple Road No 16"
+    },
+    {
+      "id": 106,
+      "employee_name": "Momin Bilal",
+      "employee_salary": "3,00,000",
+      "employee_location": "Chinchawad",
+      "employee_address": "At Post Dawabaazar station road"
+    },
+    {
+      "id": 102,
+      "employee_name": "Namdev Mansukh",
+      "employee_salary": "100000",
+      "employee_location": "Talegaon",
+      "employee_address": "Ruanak resedency road no12"
+    }
+  ]
+}
